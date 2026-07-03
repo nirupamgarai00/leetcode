@@ -12,6 +12,7 @@ My own solutions of problems that i have solved.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nirupamgarai00/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/nirupamgarai00/leetcode/tree/master/0039-combination-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,8 @@ My own solutions of problems that i have solved.
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nirupamgarai00/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/nirupamgarai00/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
