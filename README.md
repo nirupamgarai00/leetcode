@@ -13,6 +13,7 @@ My own solutions of problems that i have solved.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nirupamgarai00/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/nirupamgarai00/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nirupamgarai00/leetcode/tree/master/0040-combination-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,5 @@ My own solutions of problems that i have solved.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nirupamgarai00/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nirupamgarai00/leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
