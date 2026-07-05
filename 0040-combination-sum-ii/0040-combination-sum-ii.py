@@ -18,5 +18,7 @@ class Solution:
                     l.append(temp)
                     b(j+1,sum+temp,l)
                     l.pop()
+                else:
+                    break
         b(0,0,[])
         return ans
