@@ -39,12 +39,19 @@ My own solutions of problems that i have solved.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nirupamgarai00/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/nirupamgarai00/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nirupamgarai00/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/nirupamgarai00/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nirupamgarai00/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/nirupamgarai00/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/nirupamgarai00/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
